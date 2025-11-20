@@ -34,6 +34,5 @@ bld/
 *.db-shm
 *.db-wal
 
-# User-specific files
-appsettings.Development.json
-appsettings.Local.json
+# EF Core Migrations
+Migrations/
